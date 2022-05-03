@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher and data scientist applying machine learning methods and digital traces data to study psychological well-being, parenting, and childhood. For the last eight years I was a researcher and then the head of the Center for Modern Childhood Research at 
+I am a social scientist with over 15 years of work experience and strong background in mathematical statistics, programming, and data analysis. I apply machine learning methods and digital traces data to study psychological well-being, parenting, and childhood. For the last eight years I was a researcher and then the head of the Center for Modern Childhood Research at 
 [HSE University](https://hse.ru/en). Before that I was a researcher at the Institute for Institutional Analysis of Economic Reforms.
 
 I earned my MA in Sociology from the
