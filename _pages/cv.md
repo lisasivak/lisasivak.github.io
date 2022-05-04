@@ -11,30 +11,41 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MA in Sociology, HSE University, 2009, with distinction
+* MA in Sociology, Manchester University & Moscow School for Social nnd Economic Sciences, with distinction
+* BA in Sociology, HSE University, 2007, with distinction
+
+Training
+======
+* Summer Institute in Computational Social Science (SICSS), Princeton University, 2019
+* 2016 - 2018 Training program in data science, Institute of Bioinformatics (Saint-Petersburg) and Saint Petersburg Academic University of the Russian Academy of Sciences
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2018 - April 2022: Head of the Center for Modern Childhood Research
+  * HSE University
+  * Duties included: managing a team of 10+ researchers, writing grant proposals, organizing and supervising research projects
+
+* 2014 - 2018: Research Assistant
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Python, R, SQL, LaTex
+* Research Skills:
+  * Quantitative research: research design, questionnaire development and testing, statistical data analysis
+  * Qualitative research: conducting interviews, focus-groups, participant observation, analysis of qualitative data
+  * Computational social science. Statistical analysis of digital traces of human behavior
+  * Grant project proposal design and writing
+* Data Retrieval: API, web-scraping, data cleaning & wrangling
+* Analytics:
+  * Statistical data analysis, Machine Learning, Classification, Regression, Clustering, Dimensionality Reduction
+  * Text Analysis, Word Embeddings, Topic Models
+  * Social Network Analysis  
+  * Visualization
+
+ 
 
 Publications
 ======
@@ -54,6 +65,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
