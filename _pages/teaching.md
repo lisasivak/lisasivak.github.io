@@ -15,7 +15,7 @@ In 2021 I have also co-organized the first Summer Institute in Computational Soc
 - Research Methods in Social Sciences, 2015-2018
 
 ## SICSS HSE
-- Introduction to Applied Bayesian Modeling (Summer 2017)
+- Organizing and managing the school, developing the school’s program, teaching a workshop on prediction life outcomes, developing and teaching a workshop on Reddit as a source of digital traces data for social science research, June 2021
     - [Materials](https://sicss.io/2021/hse/schedule)
 
 ## Moscow School for Social and Economic Sciences
