@@ -4,7 +4,7 @@ permalink: /talks/
 ---
 
 
-Children's occupational preferences: evidence from a theme park behavioral logs. 7th International Conference on Computational Social Science (IC2S2), 2021 [pdf](/files/kidzania.pdf)
+Children's occupational preferences: evidence from a theme park behavioral logs. 7th International Conference on Computational Social Science (IC2S2), 2021. [pdf](/files/kidzania.pdf)
 
 Measuring Adolescents’ Well-Being: Correspondence of Naïve Digital Traces to Survey Data. 12th International Conference on Social Informatics (SocInfo 2020) (Pisa).
 
