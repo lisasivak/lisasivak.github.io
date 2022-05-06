@@ -5,7 +5,7 @@ title: "Selected publications"
 
 Dokuka S., Sivak E., Smirnov I. (2022). [Core but not peripheral online social ties is a protective factor against depression: evidence from a nationally representative sample of young adults](https://link.springer.com/chapter/10.1007/978-3-030-97240-0_4). In *International Conference on Network Science*. Springer, Cham. P. 41-53. [pdf](/files/core.pdf)
 
-Sivak E., Smirnov I. (2020). [Measuring Adolescents’ Well-Being: Correspondence of Naïve Digital Traces to Survey Data](https://link.springer.com/chapter/10.1007/978-3-030-60975-7_26#:~:text=By%20na%C3%AFve%20digital%20traces%20we,demographics%20(N%20%3D%20144).). In *Social Informatics. Proceedings of the 12th International Conference*, SocInfo 2020, Pisa, Italy, October 6–9, 2020. Springer. Ch. 26. P. 352-363. [pdf](/files/core.pdf)
+Sivak E., Smirnov I. (2020). [Measuring Adolescents’ Well-Being: Correspondence of Naïve Digital Traces to Survey Data](https://link.springer.com/chapter/10.1007/978-3-030-60975-7_26#:~:text=By%20na%C3%AFve%20digital%20traces%20we,demographics%20(N%20%3D%20144).). In *Social Informatics. Proceedings of the 12th International Conference*, SocInfo 2020, Pisa, Italy, October 6–9, 2020. Springer. Ch. 26. P. 352-363. [pdf](/files/naive.pdf)
 
 Sivak E., Smirnov I. (2019). [Parents mention sons more often than daughters on social media](https://www.pnas.org/doi/10.1073/pnas.1804996116#:~:text=We%20use%20data%20from%20a,that%20they%20deserve%20less%20attention.). *Proceedings of the National Academy of Sciences of the United States of America*, Vol. 116, No. 6, P. 2039-2041. [pdf](/files/gender.pdf)
 
