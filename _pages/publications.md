@@ -9,12 +9,17 @@ Sivak E., Smirnov I. (2020). [Measuring Adolescents’ Well-Being: Correspondenc
 
 Sivak E., Smirnov I. (2019). [Parents mention sons more often than daughters on social media](https://www.pnas.org/doi/10.1073/pnas.1804996116#:~:text=We%20use%20data%20from%20a,that%20they%20deserve%20less%20attention.). *Proceedings of the National Academy of Sciences of the United States of America*, Vol. 116, No. 6, P. 2039-2041. [pdf](/files/gender.pdf)
 
-Sivak E. (2018). [Managing grandparental involvement in child-rearing in the context of intensive parenting](https://journals.sagepub.com/doi/abs/10.1177/1360780418787201). *Sociological Research Online*, Vol. 23, No. 4, P. 830-846. [pdf](/files/grandparents.pdf) 
+Sivak E. (2019). Babysitters: Uberization of Child-Care. In *Critical Sociology of Care: Crossroads of Social Inequality*. European University Press at St. Petersburg. P. 193-215. (in Russian). [PDF](/files/babysitters.pdf)
 
-Sivak E. Babysitters: Uberisation of Child-Care. In *Critical Sociology of Care: Crossroads of Social Inequality*. European University Press at St. Petersburg, 2019. P. 193-215. (in Russian). [PDF](/files/babysitters.pdf)
+Bogacheva N., Sivak E. (2019). Myths about Generation Z. *Education Analytics*. (In Russian). [PDF](/files/myths.pdf)
+
+Sivak E. (2018). [Managing grandparental involvement in child-rearing in the context of intensive parenting](https://journals.sagepub.com/doi/abs/10.1177/1360780418787201). *Sociological Research Online*, Vol. 23, No. 4, P. 830-846. [pdf](/files/grandparents.pdf) 
 
 Sivak E., Yudkevich M. (2017) [The academic profession in Russia's two capitals: The impact of 20 years of transition](https://journals.sagepub.com/doi/full/10.1177/1474904117701142). *European Educational Research Journal*, Vol 16, Issue 5. [pdf](/files/academic.pdf)
 
 Smirnov I., Sivak E., Kozmina Y. (2016) [In Search of Lost Profiles: The Reliability of VKontakte Data and Its Importance for Educational Research](https://vo.hse.ru/en/2016--4/199015452.html). *Educational Studies Moscow*, No.4, P. 106-122. [pdf](/files/lost.pdf)
 
 Sivak E., Yudkevich M. (2015) Academic Immobility and Inbreeding in Russian Universities. In *Academic Inbreeding and Mobility in Higher Education*. Ed. by Maria Yudkevich, Philip G. Altbach, Laura E. Rumbley. Palgrave Macmilllan.
+
+
+See the full list of publications in my [Google Scholar profile](https://scholar.google.ru/citations?user=pG8TV_UAAAAJ&hl=en).
