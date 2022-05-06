@@ -9,13 +9,13 @@ In 2021 I have also co-organized the first Summer Institute in Computational Soc
 
 ## HSE University
 - Computational Social Science (2018 - 2022)
-    - Co-developing the course, including theory lectures and exercises in Python
+    - Co-developed the course, including theory lectures and exercises in Python
     - [Materials (UPDATING)](https://github.com/lisasivak/computational-social-science-course)
 - Field Work: Theory and Practice, 2018-2019
 - Research Methods in Social Sciences, 2015-2018
 
 ## SICSS HSE
-- Organizing and managing the school, developing the school’s program, teaching a workshop on prediction life outcomes, developing and teaching a workshop on Reddit as a source of digital traces data for social science research, June 2021
+- Co-organized and managed the school, developed the school’s program, taught a workshop on predicting life outcomes, developed and taught a workshop on Reddit as a source of digital traces data for social science research, June 2021
     - [Materials](https://sicss.io/2021/hse/schedule)
 
 ## Moscow School for Social and Economic Sciences
