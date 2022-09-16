@@ -83,11 +83,11 @@ author:
   name             : "Elizaveta Sivak"
   avatar           : "profile.png"
   bio              : "Researcher & Data Scientist"
-  location         : "Moscow, Russia"
-  employer         :
+  location         : 53.218128, 6.566202
+  employer         : "University of Groningen"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.ru/citations?user=pG8TV_UAAAAJ&hl=en"
-  email            : "elizaveta.sivak@gmail.com"
+  email            : "e.sivak@rug.nl"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
