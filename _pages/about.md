@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a sociologist and a computational social scientist. Currently I am a PhD candidate at the University of Groningen, where I study predictability of fertility outcomes. Before that I was the head of the Center for Modern Childhood Research at 
+I am a sociologist and a computational social scientist. Currently I am a PhD candidate at the [University of Groningen](https://www.rug.nl/), where I study predictability of fertility outcomes. Before that I was the head of the Center for Modern Childhood Research at 
 [HSE University](https://hse.ru/en). I applied machine learning methods and digital traces data along with traditional survey data to study psychological well-being, parenting, and childhood. 
 
 I earned my MA in Sociology from the
