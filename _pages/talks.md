@@ -3,6 +3,7 @@ title: "Talks and presentations"
 permalink: /talks/
 ---
 
+Predicting early parenthood: how can we inform theory using data-driven predictive modelling. Dutch Demography Day, 2022. [Slides](/files/Sivak DDD 2022.pdf)
 
 Children's occupational preferences: evidence from a theme park behavioral logs. 7th International Conference on Computational Social Science (IC2S2), 2021. [PDF](/files/kidzania.pdf), [Slides](/files/kidzania_slides.pdf)
 
