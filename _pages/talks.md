@@ -13,4 +13,4 @@ Gender Bias in Sharenting: Both Men and Women Mention Sons More Often Than Daugh
 
 Gender bias and gender inequality. Science-slam at the second Eurocss symposium, Cologne, Germany, December 5th, 2018 (winner). 
 
-Managing Intensive Parenting: Mothers’ Perception of Grandparents’ Interference in Child-Rearing. Parenting and Personhood: Cross-cultural perspectives on expertise, family life and risk managementб Canterbury, UK, 2016. [Slides](/files/grandparents_slides.pdf)
+Managing Intensive Parenting: Mothers’ Perception of Grandparents’ Interference in Child-Rearing. Parenting and Personhood: Cross-cultural perspectives on expertise, family life and risk management, Canterbury, UK, 2016. [Slides](/files/grandparents_slides.pdf)
