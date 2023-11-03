@@ -3,7 +3,11 @@ title: "Talks and presentations"
 permalink: /talks/
 ---
 
-Predicting early parenthood: how can we inform theory using data-driven predictive modelling. Dutch Demography Day, 2022. [Slides](/files/Sivak DDD 2022.pdf)
+Fertility prediction challenge, Episode I: does survey data beat population registries? ODISSEI Conference for Social Sciences in the Netherlands, Utrecht, 2023 [Slides](https://zenodo.org/records/10069541)
+
+How well can we predict the number of children based on the key factors from fertility research? Establishing prediction benchmarks for 12 European countries. 9th International Conference on Computational Social Science (IC2S2), Copenhagen, 2023.  
+
+Predicting early parenthood: how can we inform theory using data-driven predictive modelling. Dutch Demography Day, Utrecht, 2022. [Slides](/files/Sivak DDD 2022.pdf)
 
 Children's occupational preferences: evidence from a theme park behavioral logs. 7th International Conference on Computational Social Science (IC2S2), 2021. [PDF](/files/kidzania.pdf), [Slides](/files/kidzania_slides.pdf)
 
