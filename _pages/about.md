@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a sociologist and a computational social scientist. Currently, I am a PhD candidate at the [University of Groningen](https://www.rug.nl/), where I study the predictability of fertility. I am co-organizing a data challenge for predicting fertility outcomes in the Netherlands (PreFer), see details on our website [preferdatachallenge.nl](https://preferdatachallenge.nl).
+I am a sociologist and a computational social scientist. Currently, I am a PhD candidate at the [University of Groningen](https://www.rug.nl/), where I study the predictability of fertility. I am co-organizing a data challenge for predicting fertility outcomes in the Netherlands (PreFer), for details see our website [preferdatachallenge.nl](https://preferdatachallenge.nl).
 
 I earned my MA in Sociology from the
 [HSE University](https://hse.ru/en) and the [Moscow School of Social and Economic Sciences](https://www.msses.ru/en/) & University of Manchester.
