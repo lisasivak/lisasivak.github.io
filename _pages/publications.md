@@ -3,6 +3,10 @@ permalink: /publications/
 title: "Selected publications"
 ---
 
+Stulp, G., Top, L., Xu, X., & Sivak, E. (2023). [A data-driven approach shows that individuals' characteristics are more important than their networks in predicting fertility preferences](https://doi.org/10.1098/rsos.230988). Royal Society Open Science, 10(12), 230988.
+
+Mikhaylova, O., & Sivak, E. (2023). [Emerging Adulthood in Russia: Class and Educational Disparities](https://doi.org/10.1177/21676968231206208). Emerging Adulthood.
+
 Dokuka S., Sivak E., Smirnov I. (2022). [Core but not peripheral online social ties is a protective factor against depression: evidence from a nationally representative sample of young adults](https://link.springer.com/chapter/10.1007/978-3-030-97240-0_4). In *International Conference on Network Science*. Springer, Cham. P. 41-53. [pdf](/files/core.pdf)
 
 Sivak E., Smirnov I. (2020). [Measuring Adolescents’ Well-Being: Correspondence of Naïve Digital Traces to Survey Data](https://link.springer.com/chapter/10.1007/978-3-030-60975-7_26#:~:text=By%20na%C3%AFve%20digital%20traces%20we,demographics%20(N%20%3D%20144).). In *Social Informatics. Proceedings of the 12th International Conference*, SocInfo 2020, Pisa, Italy, October 6–9, 2020. Springer. Ch. 26. P. 352-363. [pdf](/files/naive.pdf)
