@@ -3,7 +3,7 @@ permalink: /publications/
 title: "Selected publications"
 ---
 
-Sivak, E., Pankowska, P., Mendrik, A., Emery, T., Garcia-Bernardo, J., Hocuk, S., Karpinska, K., Maineri, A., Mulder, J., Nissim, M., Stulp, G. Combining the Strengths of Dutch Survey and Register Data in a Data Challenge to Predict Fertility (PreFer). Preprint on [arXiv](https://arxiv.org/abs/2402.00705).
+Sivak, E., Pankowska, P., Mendrik, A., Emery, T., Garcia-Bernardo, J., Hocuk, S., Karpinska, K., Maineri, A., Mulder, J., Nissim, M., Stulp, G. (2024) [Combining the Strengths of Dutch Survey and Register Data in a Data Challenge to Predict Fertility (PreFer)](https://doi.org/10.1007/s42001-024-00275-6). Journal of Computational Social Science.
 
 Stulp, G., Top, L., Xu, X., & Sivak, E. (2023). [A data-driven approach shows that individuals' characteristics are more important than their networks in predicting fertility preferences](https://doi.org/10.1098/rsos.230988). Royal Society Open Science, 10(12), 230988.
 
